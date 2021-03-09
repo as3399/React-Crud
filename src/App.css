@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+    text-decoration: underline;
+}
+#submit{
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+#container{
+    margin-top:20px;
+    margin-left: 20px;
+}
+input{
+    border-radius: 8px;
+    padding: 3px 20px;
+    width: 30%;
+    outline: none;
+}
+#table thead th{
+    text-align: center;
+    background-color: rgb(177, 150, 150);
+    padding: 10px;
+    font-weight: bolder;
+}
+table thead{
+    border-radius: 10px;
+}
+
+table{
+    margin-top: 30px;
+    width: 100%;
+    text-align: center;
+}
